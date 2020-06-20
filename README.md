@@ -14,3 +14,5 @@ get_embedding:
 get_predict_label：
 生成输入句子的预测probability及相应label
 
+hparame和prepro：
+相应的参量调整，包括batch_size,epoch,label_ids等
